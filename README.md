@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... More about Microsoft Azure functions, Dapper, MS memory caching and Java Spring Boot.
+- 🌱 I’m currently learning ... More about Microsoft Azure functions, Dapper, MS memory caching, Java Spring Boot and React.
 - ⚡ Fun fact: ... I like to fly quadcopter drones like the DJI Spark.
 
 To learn more about my skills, experience, and projects check out my ePortfolio: <{To be added}>.
