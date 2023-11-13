@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... More about Microsoft Azure functions, Dapper, MS memory caching, Java Spring Boot and React.
 - ⚡ Fun fact: ... I like to fly quadcopter drones like the DJI Spark.
 
-To learn more about my skills, experience, and projects check out my ePortfolio: <{To be added}>.
+To learn more about my skills, experience, and projects check out my ePortfolio: https://nazoink.com.
 
 <!--
 **nazoink/TC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
